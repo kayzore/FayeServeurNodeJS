@@ -2,6 +2,7 @@ Faye Serveur
 =======
 
 Un petit serveur avec Node.JS permettant d'instaurer un système de Chat/Notification en temps réel avec PHP.
+(Exemple de serveur Php avec Symfony2 : [FayeServeur Symfony2](https://github.com/kayzore/FayeServeurSymfony2))
 
 ## Installation
 
